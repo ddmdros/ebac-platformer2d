@@ -866,7 +866,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8363202640181548669, guid: f9d4529886d5d8b48af87e1e7c388e12, type: 3}
       propertyPath: m_text
-      value: Credits
+      value: Sobre
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1941,7 +1941,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8363202640181548669, guid: f9d4529886d5d8b48af87e1e7c388e12, type: 3}
       propertyPath: m_text
-      value: Quit
+      value: Sair
       objectReference: {fileID: 0}
     - target: {fileID: 8363202640181548669, guid: f9d4529886d5d8b48af87e1e7c388e12, type: 3}
       propertyPath: m_fontSize
@@ -4230,7 +4230,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8363202640181548669, guid: f9d4529886d5d8b48af87e1e7c388e12, type: 3}
       propertyPath: m_text
-      value: Play
+      value: Jogar
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
